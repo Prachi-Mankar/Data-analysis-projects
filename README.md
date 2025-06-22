@@ -59,6 +59,3 @@ These files were imported into a MySQL database (`ecommerce`) using a Python aut
 - Top spending customers by year
 
 ---
-
-## 📂 Project Structure
-
